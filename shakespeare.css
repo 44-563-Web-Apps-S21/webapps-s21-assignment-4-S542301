@@ -30,9 +30,11 @@
     font-size: 24px;
     color:firebrick;
 }
-table{
+table,
+th,
+td{
     background-color: rgb(82, 17, 168);
-    border:5px green;
+    border:5px solid greenyellow;
     width: auto;
     margin: left;
     text-align: center;
