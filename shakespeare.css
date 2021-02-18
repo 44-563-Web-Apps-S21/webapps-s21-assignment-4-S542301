@@ -47,5 +47,8 @@ td{
     border-spacing: 5px;
     border-collapse: collapse;
 }
+.name:hover{
+    text-shadow:5px 5px 10px blue;
 
+}
 
