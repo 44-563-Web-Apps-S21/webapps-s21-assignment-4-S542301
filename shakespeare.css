@@ -15,15 +15,30 @@
     color: black;
 }
 .stage-direction:hover {
-    background-color: cadetblue;
+    background-color:chartreuse;
     color:bisque;
 }
 .king {
+    font-size: 24px;
     color:darkorange;
 }
 .first{
+    font-size: 23px;
     color:deeppink;
 }
 .second {
+    font-size: 24px;
     color:firebrick;
 }
+table{
+    background-color: rebeccapurple;
+    border:5px green;
+    width: auto;
+    margin: left;
+    text-align: center;
+    padding:25px;
+    border-spacing: 5px;
+    border-collapse: collapse;
+}
+
+
